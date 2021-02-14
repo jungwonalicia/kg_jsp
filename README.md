@@ -15,7 +15,7 @@
 <hr>
 
 ## 4일차
-<img src="https://github.com/jungwongarden/kg_jsp/blob/master/jsp04.png?raw=true">
+<img src="https://github.com/jungwongarden/kg_jsp/blob/master/jsp0304.png?raw=true">
 <hr>
 
 ## 5일차
