@@ -23,7 +23,7 @@
 <hr>
 
 ## 6일차
-<img src="https://github.com/jungwongarden/kg_jsp/blob/master/jsp06.png?raw=true">
+<img src="https://github.com/jungwongarden/kg_jsp/blob/master/jsp0506.png?raw=true">
 <hr>
 
 ## 7일차
@@ -31,5 +31,5 @@
 <hr>
 
 ## 8일차
-<img src="https://github.com/jungwongarden/kg_jsp/blob/master/jsp08.png?raw=true">
+<img src="https://github.com/jungwongarden/kg_jsp/blob/master/jsp0708.png?raw=true">
 <hr>
