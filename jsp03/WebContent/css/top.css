@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+a { /* 기본선택자: 태그를 선택-> 태그이름만!  */
+	text-decoration: none;
+	color: #ed0cd7;
+}
+
+a:hover { /* 가상선택자 */
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+
+li {
+	list-style: none;
+	float: left;
+	padding: 10px; /* li안쪽여백 */
+	/*  margin: 10px; */ /* li바깥쪽여백 */
+}
+
+li:nth-child(2n) { /* 가상선택자: 짝수 */
+	background: orange;
+}
+
+li:nth-child(2n+1) { /* 가상선택자:  홀수 */
+	background: yellow;
+}
+
+li:first-child {
+	border-radius: 20px 0 0 20px;
+}
+
+li:last-child {
+	border-radius: 0 20px 20px 0;
+}
+
+div {
+	background: black;
+	color: yellow;	
+	width: 200px;
+	height: 150px;
+	border-radius: 100px 10px; /* 1 2 3 4를 순서대로 적용시킴 */
+	position: fixed;
+	top: 5px;
+	right: 5px;
+}
+
+.b1{ /* 기본선택자: 클래스 선택=> .클래스이름 */
+	background: green;
+}
+.b2{
+	background: gold;
+}
+
+#div{ /* 기본선택자: id 선택=> #아이디이름 */
+	color: red;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+
+
+

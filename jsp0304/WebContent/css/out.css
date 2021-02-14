@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/* 컨트롤+ 쉬프트 + / :  자동주석 */
+body {
+	background: red; /* 배경색 */
+	color: blue; /* 글자색 */
+}
